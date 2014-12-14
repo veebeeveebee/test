@@ -22,7 +22,7 @@ permission notices:
   b2 is (c) 2001, 2002 Michel Valdrighi - m@tidakada.com -
   http://tidakada.com
 
-  Wherever third party code has been used, credit has been given in the code's
+  Wherever third party code has beqdqfqfqen used, credit has been given in the code's
   comments.
 
   b2 is released under the GPL
